@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adilMukhi
+- 👋 Hi, I’m @adilMukhi. Follow me here: https://linktr.ee/adilm.0
 - 👀 I’m interested in tennis, coding and writing
 - 🌱 I’m currently learning in the IB program
 - 💞️ I’m looking to collaborate on ...
