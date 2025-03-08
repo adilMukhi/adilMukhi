@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adilMukhi. Follow me here: https://linktr.ee/adilm.0
-- 👀 I’m interested in tennis, coding and writing
+- 👀 I’m interested in tennis, healthcare, coding and writing
 - 🌱 I’m currently learning in the IB program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email (mukhiadil2009@gmail.com)
