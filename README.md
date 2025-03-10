@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adilMukhi. Follow me here: https://linktr.ee/adilm.0
+- 👋 Hi, I’m @adilMukhi. Follow me here: https://adilmukhi.vercel.app/
 - 👀 I’m interested in tennis, healthcare, coding and writing
 - 🌱 I’m currently learning in the IB program
 - 💞️ I’m looking to collaborate on ...
