@@ -1,6 +1,4 @@
-<!-- Profile README for Adil Mukhi -->
-<!-- Tip: for a profile README, name the repo exactly YOUR_GITHUB_USERNAME -->
-
+<!-- It's me ADIL!!!!!!!!!! -->
 <div align="center">
 
 # 👋 Hi, I’m Adil  
@@ -92,14 +90,5 @@ I’m **Adil Mukhi** and I care about youth voice, health, and impact. I’ve na
 📧 *mukhiadil2009@gmail.com* • 🌐 *adilmukhi.vercel.app*
 
 ---
-
-<!-- Optional: GitHub profile widgets (replace YOUR_GITHUB_USERNAME) -->
-<!--
-<div align="center">
-  
-![Adil’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
-</div>
 -->
 
