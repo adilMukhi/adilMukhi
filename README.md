@@ -15,6 +15,9 @@
 ---
 
 ## About me
+
+<img src="https://adilmukhi.vercel.app/pictures/Adil%20Mukhi%20-%20Tedx%201.png" alt="Adil Mukhi speaking at TEDx" width="220" align="right" />
+
 I’m **Adil Mukhi** and I care about youth voice, health, and impact. I’ve navigated the IB journey and built initiatives that reach tens of thousands of young people. My north star is simple: *“With curiosity as my guide, I will never go wrong.”*
 
 - Executive Director and founder of **Dr. Interested**  
